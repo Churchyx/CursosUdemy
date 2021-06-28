@@ -1,0 +1,16 @@
+C:\workspace\Udemy\NelioAlves.LogicaDeProgramacaoEAlgoritmosCSharp\ExerciciosPropostos\URI1061\bin\Debug\net5.0\URI1061.exe
+C:\workspace\Udemy\NelioAlves.LogicaDeProgramacaoEAlgoritmosCSharp\ExerciciosPropostos\URI1061\bin\Debug\net5.0\URI1061.deps.json
+C:\workspace\Udemy\NelioAlves.LogicaDeProgramacaoEAlgoritmosCSharp\ExerciciosPropostos\URI1061\bin\Debug\net5.0\URI1061.runtimeconfig.json
+C:\workspace\Udemy\NelioAlves.LogicaDeProgramacaoEAlgoritmosCSharp\ExerciciosPropostos\URI1061\bin\Debug\net5.0\URI1061.runtimeconfig.dev.json
+C:\workspace\Udemy\NelioAlves.LogicaDeProgramacaoEAlgoritmosCSharp\ExerciciosPropostos\URI1061\bin\Debug\net5.0\URI1061.dll
+C:\workspace\Udemy\NelioAlves.LogicaDeProgramacaoEAlgoritmosCSharp\ExerciciosPropostos\URI1061\bin\Debug\net5.0\ref\URI1061.dll
+C:\workspace\Udemy\NelioAlves.LogicaDeProgramacaoEAlgoritmosCSharp\ExerciciosPropostos\URI1061\bin\Debug\net5.0\URI1061.pdb
+C:\workspace\Udemy\NelioAlves.LogicaDeProgramacaoEAlgoritmosCSharp\ExerciciosPropostos\URI1061\obj\Debug\net5.0\URI1061.csproj.AssemblyReference.cache
+C:\workspace\Udemy\NelioAlves.LogicaDeProgramacaoEAlgoritmosCSharp\ExerciciosPropostos\URI1061\obj\Debug\net5.0\URI1061.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\Udemy\NelioAlves.LogicaDeProgramacaoEAlgoritmosCSharp\ExerciciosPropostos\URI1061\obj\Debug\net5.0\URI1061.AssemblyInfoInputs.cache
+C:\workspace\Udemy\NelioAlves.LogicaDeProgramacaoEAlgoritmosCSharp\ExerciciosPropostos\URI1061\obj\Debug\net5.0\URI1061.AssemblyInfo.cs
+C:\workspace\Udemy\NelioAlves.LogicaDeProgramacaoEAlgoritmosCSharp\ExerciciosPropostos\URI1061\obj\Debug\net5.0\URI1061.csproj.CoreCompileInputs.cache
+C:\workspace\Udemy\NelioAlves.LogicaDeProgramacaoEAlgoritmosCSharp\ExerciciosPropostos\URI1061\obj\Debug\net5.0\URI1061.dll
+C:\workspace\Udemy\NelioAlves.LogicaDeProgramacaoEAlgoritmosCSharp\ExerciciosPropostos\URI1061\obj\Debug\net5.0\ref\URI1061.dll
+C:\workspace\Udemy\NelioAlves.LogicaDeProgramacaoEAlgoritmosCSharp\ExerciciosPropostos\URI1061\obj\Debug\net5.0\URI1061.pdb
+C:\workspace\Udemy\NelioAlves.LogicaDeProgramacaoEAlgoritmosCSharp\ExerciciosPropostos\URI1061\obj\Debug\net5.0\URI1061.genruntimeconfig.cache
